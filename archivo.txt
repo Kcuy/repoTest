@@ -1,1 +1,2 @@
-línea de cógigo 1
+línea de código 1
+línea de código 2
